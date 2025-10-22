@@ -1,4 +1,4 @@
-# 🏋️ Fitness Coach AI Bot - LangChain Version
+# 🏋️ Fitness Coach AI Bot - LangChain Version (MVP)
 
 ## 📋 Описание проекта
 
